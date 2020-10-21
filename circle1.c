@@ -2,7 +2,7 @@
 input diameter is an integer and the output area should be a floating point
 variable with 2 point precision*/
 
-
+#include<stdio.h>
 int main()
 {
   
